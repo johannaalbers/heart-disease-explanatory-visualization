@@ -9,10 +9,12 @@ This project investigates diagnostic markers for heart disease using structured 
 
 The goal was to:
 
-- Perform exploratory data analysis
-- Identify statistically significant predictors
-- Translate findings into an explanatory visualization
-- Communicate clinically relevant insights to healthcare professionals
+1. Perform exploratory data analysis
+2. Identify statistically significant predictors
+3. Translate findings into an explanatory visualization
+4. Communicate clinically relevant insights to healthcare professionals
+
+This project was developed as part of a group assignment. I mainly took care of part 3 and 4.
 
 ---
 
