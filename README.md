@@ -96,6 +96,16 @@ Explanatory phase:
 
 ---
 
+## Reproducing this analysis
+
+pip install -r requirements.txt
+
+The tree diagram also requires the Graphviz system software, which pip cannot
+install. On macOS: brew install graphviz. Without it, that one cell fails and
+the rest of the notebook runs normally.
+
+---
+
 ## Skills Demonstrated
 
 - Exploratory data analysis
