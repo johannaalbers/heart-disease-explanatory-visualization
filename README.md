@@ -14,7 +14,7 @@ The goal was to:
 3. Translate findings into an explanatory visualization
 4. Communicate clinically relevant insights to healthcare professionals
 
-This project was developed as part of a group assignment. I mainly took care of part 3 and 4.
+This project was developed as part of a group assignment. 
 
 ---
 
